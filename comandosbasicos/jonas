@@ -1,0 +1,6 @@
+#!/bin/bash
+
+nome='aristides'
+echo "parabens, $nome, voce ganhou um real"
+
+
